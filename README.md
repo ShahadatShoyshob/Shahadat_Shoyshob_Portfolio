@@ -4,8 +4,8 @@
 
 This Project is based on a person’s personal financial investments and savings. The goal of this project is to find the person’s Investment and savings over 3 years. In order to make the Visualization new savings, income and expenses measures were created for the purpose of using them to make the graphs. The Dashboard consist of bar charts, a trend chart and a table sheet to have the full details of all the spending and savings. There is also a tooltip included for all items listed on the bar chart.
 
-## Financial Dashboard   ![](sample_images/Bar_chart.png)
-## Expense vs Income vs Savings   ![](sample_images/Pie_chart.png)
+## Financial Dashboard  
+## Expense vs Income vs Savings   
 
 # [Project 2- Covid Infection rate 2020-2021](https://github.com/ShahadatShoyshob/Project_Covid_Infection_rate_2020-2021)
 
@@ -22,3 +22,6 @@ The Data was taken from Kaggle.
 I.	The Data was first cleaned and null values were removed by using the Pandas library.  
 II.	Then used Seaborn library to visualize cancelled and non-cancellation percentage locations from the data. 
 III.	There is also a Data Analyst report I made based on the Visualization facts found in the Hotel Booking data.
+
+## Number of cancelled and non-cancellation bar chart  ![](sample_images/Bar_chart.png)
+## Pie chart based on a countries booking  ![](sample_images/Pie_chart.png)
