@@ -24,4 +24,4 @@ II.	Then used Seaborn library to visualize cancelled and non-cancellation percen
 III.	There is also a Data Analyst report I made based on the Visualization facts found in the Hotel Booking data.
 
 ## Number of cancelled and non-cancellation bar chart  ![](sample_images/Bar_chart.png)
-## Pie chart based on a countries booking  ![](sample_images/Pie_chart.png)
+## Pie chart based on countries booking cancellations  ![](sample_images/Pie_chart.png)
