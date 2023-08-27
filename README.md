@@ -13,3 +13,9 @@ This Project is based on a person’s personal financial investments and savings
 
 # Tableau visualization link: https://public.tableau.com/views/CovidInfectionrateProject2020-2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
+# [Project 3: Hotel Booking](https://github.com/ShahadatShoyshob/Project_Hotel_Booking)
+
+The Data was taken from Kaggle. 
+I.	The Data was first cleaned and null values were removed by using the Pandas library.  
+II.	Then used Seaborn library to visualize cancelled and non-cancellation percentage locations from the data. 
+III.	There is also a Data Analyst report I made based on the Visualization facts found in the Hotel Booking data.
