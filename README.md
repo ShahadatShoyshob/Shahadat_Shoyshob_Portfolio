@@ -1,4 +1,4 @@
-# Shoyshob's Data Analyst Portfolio
+# Data Analyst Portfolio
 
 # [Project 1- Personal Finance (Power BI Dashboard)](https://github.com/ShahadatShoyshob/Project_Personal_Finance)
 
