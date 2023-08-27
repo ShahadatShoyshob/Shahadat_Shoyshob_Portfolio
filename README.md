@@ -4,7 +4,7 @@
 
 This Project is based on a person’s personal financial investments and savings. The goal of this project is to find the person’s Investment and savings over 3 years. In order to make the Visualization new savings, income and expenses measures were created for the purpose of using them to make the graphs. The Dashboard consist of bar charts, a trend chart and a table sheet to have the full details of all the spending and savings. There is also a tooltip included for all items listed on the bar chart.
 
-## Financial Dashboard ![]([Images/All charts.png](https://github.com/ShahadatShoyshob/Shahadat_Shoyshob_Portfolio/blob/c9d4ede21242f02be27851239a6bc709c8b798bc/sample_images/Bar_chart.png))
+## Financial Dashboard ![](sample_images/Bar_chart.png)
 
 # [Project 2- Covid Infection rate 2020-2021](https://github.com/ShahadatShoyshob/Project_Covid_Infection_rate_2020-2021)
 
