@@ -13,7 +13,7 @@ This Project is based on a person’s personal financial investments and savings
 •	In Tableau, the visualization data is taken from SQL queries.
 •	Tableau visualizes the Infection and Death percentage worldwide
 
-
+### Tableau visualization link: https://public.tableau.com/views/CovidInfectionrateProject2020-2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 # [Project 3: Hotel Booking](https://github.com/ShahadatShoyshob/Project_Hotel_Booking)
 
